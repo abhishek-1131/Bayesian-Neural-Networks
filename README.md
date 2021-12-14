@@ -7,7 +7,7 @@ Dependencies:
     Numpy
     Matplotlib
 
-Output example with ideal image (from handwritten digits database:
+Output example with ideal image (from handwritten digits database):
 
 ![plot](./bnn_output_images/op1.png)
 
