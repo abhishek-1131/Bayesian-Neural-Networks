@@ -7,6 +7,14 @@ Dependencies:
     Numpy
     Matplotlib
 
-Output with ideal image:
+Output example with ideal image:
 
 ![plot](./bnn_output_images/op1.png)
+
+Outputs where network refuses to classify:
+
+![plot](./bnn_output_images/ol1.png)
+
+![plot](./bnn_output_images/ol2.png)
+
+![plot](./bnn_output_images/ol3.png)
